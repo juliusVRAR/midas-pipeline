@@ -1,0 +1,11 @@
+Library/*
+Builds/*
+Logs/*
+Temp/*
+UserSettings/*
+.vscode/*
+.idea/
+.utmp/*
+Assets/_Recovery/*
+Assets/Samples/*
+Assets/Plan/*

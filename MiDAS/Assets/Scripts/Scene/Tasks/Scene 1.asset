@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45391e850f4b1a20ca0ecb39a4a4f6fc, type: 3}
+  m_Name: Scene 1
+  m_EditorClassIdentifier: Assembly-CSharp::TaskScene
+  taskName: Scene 1
+  objectDefinitions:
+  - {fileID: 11400000, guid: c4f2c1dec5afe5e2c87c69f6f0849c82, type: 2}
+  - {fileID: 11400000, guid: 2caaafcece4b2b79f9314478f94adbb1, type: 2}
+  - {fileID: 11400000, guid: 5cfc62140962b6d278db29cb899f89fd, type: 2}
+  - {fileID: 11400000, guid: f11e7a43c3d6da998be43d3eb69520cc, type: 2}

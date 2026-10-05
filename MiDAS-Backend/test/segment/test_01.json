@@ -1,0 +1,67 @@
+{
+  "session_id": "s1",
+  "target_id": "obj1",
+  "frame_id": 1,
+  "timestamp": "0001-01-01T00:00:00",
+  "intrinsics": {
+    "width": 1280,
+    "height": 960,
+    "sensor_width": 1280.0,
+    "sensor_height": 1280.0,
+    "fx": 867.5285,
+    "fy": 867.5285,
+    "cx": 639.4329,
+    "cy": 640.4481
+  },
+  "extrinsics": {
+    "T_world_cam": [
+      [
+        0.96858,
+        0.225864589,
+        0.104105622,
+        -0.453374326
+      ],
+      [
+        -0.0261807516,
+        0.5088687,
+        -0.860446,
+        1.406119
+      ],
+      [
+        -0.247320354,
+        0.830685139,
+        0.4987933,
+        0.473702133
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ]
+  },
+  "point_prompt": {
+    "image_id": null,
+    "points": [
+      [
+        708.0,
+        631.0
+      ]
+    ],
+    "labels": [
+      1
+    ]
+  },
+  "text_prompt": "ball",
+  "world_point": [
+    -0.282663524,
+    0.260393918,
+    0.875197649
+  ],
+  "anchor_u": null,
+  "anchor_v": null,
+  "anchor_depth_m": null,
+  "sample_stride": 2,
+  "image_file": "1f243650-0dd9-4bba-862e-fbc7856eb3ec.jpg"
+}

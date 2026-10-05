@@ -1,0 +1,7 @@
+server-env/*
+external/*
+**/__pycache__/*
+.vscode
+.idea
+saved_frames/*
+plan/*

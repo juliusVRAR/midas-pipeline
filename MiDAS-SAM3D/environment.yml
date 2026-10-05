@@ -1,0 +1,17 @@
+name: sam3d
+channels:
+  - pytorch
+  - nvidia
+  - pytorch3d
+  - conda-forge
+channel_priority: strict
+
+dependencies:
+  - python=3.10
+  - numpy
+  - pyyaml
+  - pytorch=2.5.1
+  - pytorch-cuda=12.1
+  - pytorch3d
+  - kaolin
+  - pip

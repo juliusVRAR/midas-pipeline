@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d5ab5716f7f79d05b27bef7b4a7ae45, type: 3}
+  m_Name: Pose
+  m_EditorClassIdentifier: Assembly-CSharp::UIMode
+  modeName: Pose
+  icon: {fileID: -5351223329286999549, guid: 64f884351318b694f942625580e64a8b, type: 3}
+  priority: 0
